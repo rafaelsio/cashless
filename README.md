@@ -4,7 +4,7 @@ Cashless Microservice version 1
 All code MUST be in english language!
 
 
-<h1>Dependecies<h1>
+<h1>Dependencies<h1>
 
 <table>
     <tr>
