@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {}
+    "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {}
   },
   "projects": {
-    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
+    "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
+        "projectUniqueName": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
         "projectName": "Cashless.Common",
-        "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
+        "projectPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
         "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/",
+        "outputPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

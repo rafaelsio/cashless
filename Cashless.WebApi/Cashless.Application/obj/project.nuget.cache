@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eez22tApGMcR3hQpWmkU4IapuH4HuFyHjyV8CXOVgZZlYihQn8bRxA/d30ulrtHMYQqWqFBrFldEzVHEaMXYiQ==",
+  "dgSpecHash": "rWQVUe8Hi0FghzNzHk+gpMtWDZBUQPIeEcIDLo7/tk9/akcw1d0JVXNxTJqWwRyLn/RMoPng+v1MRvxSmT8o8g==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

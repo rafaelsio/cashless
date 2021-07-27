@@ -5,25 +5,25 @@
       <File FileName="Cashless.Common/Extensions/EnumExtensions.cs" />
       <File FileName="Cashless.Common/Extensions/StringExtensions.cs" />
       <File FileName="Cashless.Common/ErrorCode.cs" />
-      <File FileName="Cashless.WebApi/Controllers/CreditCardController.cs" Line="27" Column="1" />
+      <File FileName="Cashless.WebApi/Controllers/CreditCardController.cs" />
       <File FileName="Cashless.Application/Contracts/ICreditCardService.cs" />
       <File FileName="Cashless.Application/DTOs/CreditCardDTO.cs" />
       <File FileName="Cashless.Application/DTOs/TokenDTO.cs" />
-      <File FileName="Cashless.Application/Services/CreditCardService.cs" Line="58" Column="1" />
-      <File FileName="Cashless.Application/Mappers/CreditCardMapper.cs" Line="28" Column="41" />
-      <File FileName="Cashless.Domain/Entities/CreditCard.cs" Line="18" Column="40" />
+      <File FileName="Cashless.Application/Services/CreditCardService.cs" />
+      <File FileName="Cashless.Application/Mappers/CreditCardMapper.cs" />
+      <File FileName="Cashless.Domain/Entities/CreditCard.cs" />
       <File FileName="Cashless.Application/Mappers/TokenMapper.cs" />
       <File FileName="Cashless.Application/Contracts/ITokenService.cs" />
-      <File FileName="Cashless.Application/Services/TokenService.cs" Line="1" Column="1" />
+      <File FileName="Cashless.Application/Services/TokenService.cs" />
       <File FileName="Cashless.Domain/Repositories/ICreditCardRepository.cs" />
-      <File FileName="Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" Line="34" Column="1" />
-      <File FileName="Cashless.Test/CreditCardServiceTests.cs" Line="20" Column="1" />
+      <File FileName="Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" />
+      <File FileName="Cashless.Test/CreditCardServiceTests.cs" />
       <File FileName="Cashless.Infrastructure.DI/DepencyInjection.cs" />
       <File FileName="Cashless.WebApi/Startup.cs" />
       <File FileName="Cashless.WebApi/Program.cs" />
-      <File FileName="Cashless.Test/TokenTests.cs" Line="28" Column="10" />
-      <File FileName="Cashless.Domain/ValueObjects/Token.cs" Line="11" Column="36" />
-      <File FileName="Cashless.WebApi/Extentions/ControllerExtentions.cs" Line="25" Column="31" />
+      <File FileName="Cashless.Test/TokenTests.cs" />
+      <File FileName="Cashless.Domain/ValueObjects/Token.cs" />
+      <File FileName="Cashless.WebApi/Extentions/ControllerExtentions.cs" Line="25" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -51,12 +51,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.WebApi/Controllers/CreditCardController.cs" relfile="Cashless.WebApi/Controllers/CreditCardController.cs" line="27" column="1" />
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.Test/CreditCardServiceTests.cs" relfile="Cashless.Test/CreditCardServiceTests.cs" line="26" column="1" />
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.Test/CreditCardServiceTests.cs" relfile="Cashless.Test/CreditCardServiceTests.cs" line="46" column="1" />
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Services/CreditCardService.cs" relfile="Cashless.Application/Services/CreditCardService.cs" line="58" column="1" />
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.WebApi/Controllers/CreditCardController.cs" relfile="Cashless.WebApi/Controllers/CreditCardController.cs" line="42" column="1" />
-      <Breakpoint file="/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" relfile="Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" line="32" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.WebApi/Controllers/CreditCardController.cs" relfile="Cashless.WebApi/Controllers/CreditCardController.cs" line="27" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Test/CreditCardServiceTests.cs" relfile="Cashless.Test/CreditCardServiceTests.cs" line="26" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Test/CreditCardServiceTests.cs" relfile="Cashless.Test/CreditCardServiceTests.cs" line="46" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/Services/CreditCardService.cs" relfile="Cashless.Application/Services/CreditCardService.cs" line="58" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.WebApi/Controllers/CreditCardController.cs" relfile="Cashless.WebApi/Controllers/CreditCardController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" relfile="Cashless.Infrastructure.Database/Repositories/CreditCardRepository.cs" line="32" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

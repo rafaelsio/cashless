@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kl2r8bAm05XJNZloJmNGZMtGZHiU5R7GlGM4PTV5ZvMmA1Dx6Zoyc4LPRnvcxtvIaNu4JXERdLmTh2BGPoKPNg==",
+  "dgSpecHash": "4EzINRNslbF5+3fvxjzrb/YI844onM/dJzEAoU/dMkJOtxijpBLeDuKUQhScvEKQrI8EtT8re/bcqxdr3ZRX4A==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.WebApi/Cashless.WebApi.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.WebApi/Cashless.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.0.0/microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
     "/Users/rafael/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",

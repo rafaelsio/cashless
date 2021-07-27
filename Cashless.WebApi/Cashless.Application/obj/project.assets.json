@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
+      "projectUniqueName": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
       "projectName": "Cashless.Application",
-      "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
+      "projectPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
       "packagesPath": "/Users/rafael/.nuget/packages/",
-      "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/obj/",
+      "outputPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -74,11 +74,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
-              "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj"
+            "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
+              "projectPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj"
             },
-            "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj": {
-              "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj"
+            "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj": {
+              "projectPath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj"
             }
           }
         }

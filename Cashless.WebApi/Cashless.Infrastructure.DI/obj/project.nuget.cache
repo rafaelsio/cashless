@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3o46V3v2hw+huTtoQXFJBnWLJ2BSxHhlrbik4KN9PH+4GL8N9GNp3MjkLbzhWH8N0mgJXv0IDM60t0rBN2juIw==",
+  "dgSpecHash": "LyWLtmm5E179gzPPvkXDDFL9BijvtFW4KS8qdbbeINyGipSH0w9yPp8znLBbKY1hxzSHnxVERscGkq7vql3t3g==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.DI/Cashless.Infrastructure.DI.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Infrastructure.DI/Cashless.Infrastructure.DI.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/microsoft.entityframeworkcore/5.0.8/microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
     "/Users/rafael/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.8/microsoft.entityframeworkcore.abstractions.5.0.8.nupkg.sha512",

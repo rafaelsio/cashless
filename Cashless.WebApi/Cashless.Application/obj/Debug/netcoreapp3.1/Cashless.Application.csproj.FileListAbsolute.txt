@@ -12,3 +12,17 @@
 /Users/rafael/Projects/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.csproj.CopyComplete
 /Users/rafael/Projects/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.dll
 /Users/rafael/Projects/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.pdb
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Application.deps.json
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Application.dll
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Application.pdb
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Common.dll
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Domain.dll
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Domain.pdb
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/bin/Debug/netcoreapp3.1/Cashless.Common.pdb
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.csproj.AssemblyReference.cache
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.AssemblyInfo.cs
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.csproj.CopyComplete
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.dll
+/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Application/obj/Debug/netcoreapp3.1/Cashless.Application.pdb

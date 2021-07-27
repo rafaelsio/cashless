@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0OGnhU1zqpNMwONJ+oIjDc09npFI60mYRs+Ol3iZmMz2TOhfDXKCpc86mw0hGvdVpOF5d1ixTxy8b4HvuG9jfw==",
+  "dgSpecHash": "L4dMparlO+UtEEP2/iDK3JQZowg0I09kLtlCVBUluJG3AnSQbgD5LHYoKU8juGGwIUE9jeXM3Mm0BqSDyLDPrQ==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Test/Cashless.UnitTest.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/cashless/Cashless.WebApi/Cashless.Test/Cashless.UnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/rafael/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
