@@ -1,0 +1,8 @@
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/bin/Debug/netcoreapp3.1/Cashless.Common.deps.json
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/bin/Debug/netcoreapp3.1/Cashless.Common.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/bin/Debug/netcoreapp3.1/Cashless.Common.pdb
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/Debug/netcoreapp3.1/Cashless.Common.AssemblyInfoInputs.cache
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/Debug/netcoreapp3.1/Cashless.Common.AssemblyInfo.cs
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/Debug/netcoreapp3.1/Cashless.Common.csproj.CoreCompileInputs.cache
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/Debug/netcoreapp3.1/Cashless.Common.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/Debug/netcoreapp3.1/Cashless.Common.pdb

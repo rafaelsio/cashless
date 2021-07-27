@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DTOs\" />
+    <None Remove="Services\" />
+    <None Remove="Messages\" />
+    <None Remove="Messages\CreditCard\" />
+    <None Remove="Messages\Token\" />
+    <None Remove="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Services\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Messages\CreditCard\" />
+    <Folder Include="Messages\Token\" />
+    <Folder Include="Contracts\" />
+  </ItemGroup>
+</Project>

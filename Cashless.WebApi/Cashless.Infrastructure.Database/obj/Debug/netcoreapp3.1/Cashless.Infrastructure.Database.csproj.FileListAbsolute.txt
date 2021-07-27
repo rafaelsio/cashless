@@ -1,0 +1,14 @@
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.deps.json
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.pdb
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Common.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Domain.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Domain.pdb
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/bin/Debug/netcoreapp3.1/Cashless.Common.pdb
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.csproj.AssemblyReference.cache
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.AssemblyInfoInputs.cache
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.AssemblyInfo.cs
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.csproj.CoreCompileInputs.cache
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.csproj.CopyComplete
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.dll
+/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure.Database/obj/Debug/netcoreapp3.1/Cashless.Infrastructure.Database.pdb

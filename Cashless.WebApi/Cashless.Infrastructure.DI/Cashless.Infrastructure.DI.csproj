@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cashless.Infrastructure.Database\Cashless.Infrastructure.Database.csproj" />
+    <ProjectReference Include="..\Cashless.Domain\Cashless.Domain.csproj" />
+    <ProjectReference Include="..\Cashless.Common\Cashless.Common.csproj" />
+    <ProjectReference Include="..\Cashless.Application\Cashless.Application.csproj" />
+  </ItemGroup>
+</Project>

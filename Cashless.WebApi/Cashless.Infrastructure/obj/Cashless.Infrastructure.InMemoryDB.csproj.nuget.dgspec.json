@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure/Cashless.Infrastructure.InMemoryDB.csproj": {}
+  },
+  "projects": {
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure/Cashless.Infrastructure.InMemoryDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure/Cashless.Infrastructure.InMemoryDB.csproj",
+        "projectName": "Cashless.Infrastructure.InMemoryDB",
+        "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure/Cashless.Infrastructure.InMemoryDB.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

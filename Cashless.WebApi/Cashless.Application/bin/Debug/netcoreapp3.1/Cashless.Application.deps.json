@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cashless.Application/1.0.0": {
+        "dependencies": {
+          "Cashless.Common": "1.0.0",
+          "Cashless.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cashless.Application.dll": {}
+        }
+      },
+      "Cashless.Common/1.0.0": {
+        "runtime": {
+          "Cashless.Common.dll": {}
+        }
+      },
+      "Cashless.Domain/1.0.0": {
+        "dependencies": {
+          "Cashless.Common": "1.0.0"
+        },
+        "runtime": {
+          "Cashless.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cashless.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cashless.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cashless.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

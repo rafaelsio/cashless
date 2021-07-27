@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
+        "projectName": "Cashless.Application",
+        "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/Cashless.Application.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
+                "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj"
+              },
+              "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj": {
+                "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
+        "projectName": "Cashless.Common",
+        "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj",
+        "projectName": "Cashless.Domain",
+        "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/Cashless.Domain.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj": {
+                "projectPath": "/Users/rafael/Projects/Cashless.WebApi/Cashless.Common/Cashless.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
