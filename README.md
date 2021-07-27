@@ -15,7 +15,6 @@ All code MUST be in english language!
         <td>Microsoft .net core</td>
         <td>3.1</td>
     </tr>
-
     <tr>
         <td>XUnit</td>
         <td>2.4.0</td>
